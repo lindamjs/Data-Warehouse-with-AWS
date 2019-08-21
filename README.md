@@ -1,6 +1,6 @@
 1. Purpose of the Database - Sparkify
  - To maintain a record of user activity on the music app for analytical purposes
- - The bakend data provides an insight on the following :
+ - The backend data provides an insight on the following :
 
      : number of users accessing the portal
      : to find the peak hours during which users are accessing the app
